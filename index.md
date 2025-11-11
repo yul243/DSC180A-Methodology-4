@@ -1,5 +1,5 @@
 # Yujin Lee
-yul243@ucsd.edu
+[yul243@ucsd.edu](mailtp:yul243@ucsd.edu)
 
 **Section:** A04
 **Mentor:** Prof. Biwei Huang
