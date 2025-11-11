@@ -1,4 +1,4 @@
-# Yujin Lee
+# Yujin's Methodology Assignment 4
 [yul243@ucsd.edu](mailtp:yul243@ucsd.edu)
 
 **Section:** A04
